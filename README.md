@@ -1,3 +1,113 @@
+# Bureaucratic Document Simplifier GPT (官僚文書 平易化GPT)
+
+> “Transform complex government documents into simple language anyone can understand.”
+
+---
+
+## 📌 Overview
+
+**Bureaucratic Document Simplifier GPT (官僚文書 平易化GPT)** is a GPT-powered assistant designed to simplify complex Japanese bureaucratic documents — such as official notices, government regulations, and administrative procedures — into plain Japanese that even junior high school students can understand.
+
+This tool helps citizens, public servants, and professionals communicate government information more clearly and efficiently.
+
+---
+
+## ⚙️ Features
+
+✅ Outputs original text and simplified text side by side  
+✅ Simplifies text to a junior high school reading level  
+✅ Adds concise explanations for technical terms  
+✅ Breaks down long sentences into shorter, clearer ones
+
+---
+
+## 🎯 Example Prompts
+
+```
+
+Please simplify the following text into plain Japanese:
+「本告示は、令和六年四月一日より施行するものとする。」
+
+```
+```
+
+Rewrite the following administrative document so that junior high school students can understand it:
+「事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。」
+
+```
+
+---
+
+## 💻 Example Output
+
+> **【Original】**  
+> 本告示は、令和六年四月一日より施行するものとする。
+> 
+> **【Simplified Japanese】**  
+> このお知らせは、2024年4月1日から効力が始まります。（施行＝効力開始）
+
+---
+
+> **【Original】**  
+> 事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。
+> 
+> **【Simplified Japanese】**  
+> 事業をしている人が、特別な理由もないのに仕事を続けないと、その許可が取り消されることがあります。（正当な理由＝きちんとした理由）
+
+---
+
+## ✅ Use Cases
+
+- Simplifying administrative notices for citizens  
+- Translating complex government language for internal use  
+- Preparing easy-to-understand content for media outlets  
+- Supporting municipal websites in writing clear public information
+
+---
+
+## 🎯 Target Users
+
+- General public  
+- Municipal staff  
+- Professionals in legal or administrative services  
+- Public relations teams  
+- Media and journalists
+
+---
+
+## 💡 Why This Tool?
+
+Japanese bureaucratic documents often contain highly technical language and complex structures that make them difficult for ordinary citizens to understand.  
+**Bureaucratic Document Simplifier GPT** bridges this gap by producing side-by-side outputs of the original text and the simplified version, making government communication clearer and more accessible.
+
+---
+
+## ⚠️ Disclaimer
+
+- This tool provides simplified drafts for reference purposes only.  
+- For official documents, always confirm with appropriate government offices or legal professionals.
+
+---
+
+## 🚀 Future Plans
+
+- Expanded support for English-language translations  
+- Domain-specific glossaries for various administrative fields  
+- Batch processing for large documents
+
+---
+
+## License
+
+MIT License
+
+---
+
+> “Transform complex government documents into simple language anyone can understand.”
+
+[View 官僚文書 平易化GPT on ChatGPT](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
+
+
 # 官僚文書 平易化GPT
 
 官僚文書 平易化GPT は、官公庁の告示・通知や行政手続き案内文を、中学生でも理解できる平易な日本語に変換するAIアシスタントです。
