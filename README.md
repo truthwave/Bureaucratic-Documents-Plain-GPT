@@ -1,6 +1,6 @@
 # Bureaucratic Document Simplifier GPT (官僚文書 平易化GPT)
 
-> “Transform complex government documents into simple language anyone can understand.”
+> **“Transform complex government documents into simple language anyone can understand.”**
 
 ---
 
@@ -18,10 +18,23 @@ This tool helps:
 
 ## ⚙️ Key Features
 
-- ✅ Outputs original text and simplified text side by side
-- ✅ Rewrites text to a junior high school reading level
-- ✅ Adds concise explanations for technical terms
-- ✅ Breaks long, complex sentences into shorter, clearer statements
+✅ **Side-by-Side Output**
+- Displays original text and simplified text together
+
+---
+
+✅ **Plain Japanese Rewriting**
+- Rewrites text to a junior high school reading level
+
+---
+
+✅ **Technical Term Annotations**
+- Adds short, easy explanations for difficult words
+
+---
+
+✅ **Shorter, Clearer Sentences**
+- Breaks long bureaucratic sentences into simpler ones
 
 ---
 
@@ -51,7 +64,7 @@ Please simplify the following text into plain Japanese:
 
 ---
 
-### GPT Example Output
+### ✅ GPT Example Output
 
 > **【Original】**  
 > 本告示は、令和六年四月一日より施行するものとする。  
@@ -72,7 +85,7 @@ Rewrite the following administrative document so that junior high school student
 
 ---
 
-### GPT Example Output
+### ✅ GPT Example Output
 
 > **【Original】**  
 > 事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。  
@@ -86,8 +99,8 @@ Rewrite the following administrative document so that junior high school student
 
 - Simplifying administrative notices for citizens
 - Making legal documents understandable for the public
-- Preparing easy-to-understand content for municipal websites
-- Supporting media in translating complex official language
+- Creating plain-language content for municipal websites
+- Helping journalists translate complex official language
 
 ---
 
@@ -108,7 +121,7 @@ Japanese official documents often contain complex and technical language, making
 
 ## 🌐 Demo
 
-[View 官僚文書 平易化GPT on ChatGPT](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
+[Try 官僚文書 平易化GPT on ChatGPT](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
 
 ---
 
@@ -127,6 +140,8 @@ I designed and developed this GPT, including:
 MIT License
 
 ---
+
+> **“官僚文書を誰でも理解できるやさしい日本語へ。”**
 
 ---
 
