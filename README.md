@@ -6,22 +6,41 @@
 
 ## 📌 Overview
 
-**Bureaucratic Document Simplifier GPT (官僚文書 平易化GPT)** is a GPT-powered assistant designed to simplify complex Japanese bureaucratic documents — such as official notices, government regulations, and administrative procedures — into plain Japanese that even junior high school students can understand.
+**Bureaucratic Document Simplifier GPT (官僚文書 平易化GPT)** is a GPT-powered assistant that transforms dense, bureaucratic Japanese language—found in official notices, laws, and administrative documents—into plain Japanese that even junior high school students can understand.
 
-This tool helps citizens, public servants, and professionals communicate government information more clearly and efficiently.
+This tool helps:
 
----
-
-## ⚙️ Features
-
-✅ Outputs original text and simplified text side by side  
-✅ Simplifies text to a junior high school reading level  
-✅ Adds concise explanations for technical terms  
-✅ Breaks down long sentences into shorter, clearer ones
+- Citizens understand their rights and obligations
+- Government staff simplify communications
+- Professionals like legal workers and journalists explain regulations clearly
 
 ---
 
-## 🎯 Example Prompts
+## ⚙️ Key Features
+
+- ✅ Outputs original text and simplified text side by side
+- ✅ Rewrites text to a junior high school reading level
+- ✅ Adds concise explanations for technical terms
+- ✅ Breaks long, complex sentences into shorter, clearer statements
+
+---
+
+## 🎯 Target Users
+
+- General public
+- Municipal and government staff
+- Professionals in legal, administrative, and PR fields
+- Journalists and media professionals
+
+---
+
+## 💻 Usage Examples
+
+Here’s how you might use this GPT:
+
+---
+
+### Example Prompt 1
 
 ```
 
@@ -29,6 +48,21 @@ Please simplify the following text into plain Japanese:
 「本告示は、令和六年四月一日より施行するものとする。」
 
 ```
+
+---
+
+### GPT Example Output
+
+> **【Original】**  
+> 本告示は、令和六年四月一日より施行するものとする。  
+>
+> **【Simplified Japanese】**  
+> このお知らせは、2024年4月1日から効力が始まります。（施行＝効力開始）
+
+---
+
+### Example Prompt 2
+
 ```
 
 Rewrite the following administrative document so that junior high school students can understand it:
@@ -38,19 +72,11 @@ Rewrite the following administrative document so that junior high school student
 
 ---
 
-## 💻 Example Output
+### GPT Example Output
 
 > **【Original】**  
-> 本告示は、令和六年四月一日より施行するものとする。
-> 
-> **【Simplified Japanese】**  
-> このお知らせは、2024年4月1日から効力が始まります。（施行＝効力開始）
-
----
-
-> **【Original】**  
-> 事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。
-> 
+> 事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。  
+>
 > **【Simplified Japanese】**  
 > 事業をしている人が、特別な理由もないのに仕事を続けないと、その許可が取り消されることがあります。（正当な理由＝きちんとした理由）
 
@@ -58,72 +84,96 @@ Rewrite the following administrative document so that junior high school student
 
 ## ✅ Use Cases
 
-- Simplifying administrative notices for citizens  
-- Translating complex government language for internal use  
-- Preparing easy-to-understand content for media outlets  
-- Supporting municipal websites in writing clear public information
-
----
-
-## 🎯 Target Users
-
-- General public  
-- Municipal staff  
-- Professionals in legal or administrative services  
-- Public relations teams  
-- Media and journalists
+- Simplifying administrative notices for citizens
+- Making legal documents understandable for the public
+- Preparing easy-to-understand content for municipal websites
+- Supporting media in translating complex official language
 
 ---
 
 ## 💡 Why This Tool?
 
-Japanese bureaucratic documents often contain highly technical language and complex structures that make them difficult for ordinary citizens to understand.  
-**Bureaucratic Document Simplifier GPT** bridges this gap by producing side-by-side outputs of the original text and the simplified version, making government communication clearer and more accessible.
+Japanese official documents often contain complex and technical language, making it difficult for ordinary citizens to understand their rights, obligations, or government announcements.
+
+**Bureaucratic Document Simplifier GPT** bridges this gap by providing side-by-side original and simplified text, ensuring clear communication and better public understanding.
 
 ---
 
 ## ⚠️ Disclaimer
 
-- This tool provides simplified drafts for reference purposes only.  
-- For official documents, always confirm with appropriate government offices or legal professionals.
+- This tool generates simplified drafts for reference purposes only.
+- Always confirm official information with relevant government offices or legal professionals.
 
 ---
 
-## 🚀 Future Plans
+## 🌐 Demo
 
-- Expanded support for English-language translations  
-- Domain-specific glossaries for various administrative fields  
-- Batch processing for large documents
+[View 官僚文書 平易化GPT on ChatGPT](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
 
 ---
 
-## License
+## 👨‍💻 My Role
+
+I designed and developed this GPT, including:
+
+- Prompt engineering tailored to Japanese government language
+- UX design for easy readability
+- Testing and refining outputs for clarity
+
+---
+
+## 📄 License
 
 MIT License
 
 ---
 
-> “Transform complex government documents into simple language anyone can understand.”
-
-[View 官僚文書 平易化GPT on ChatGPT](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
-
+---
 
 # 官僚文書 平易化GPT
 
-官僚文書 平易化GPT は、官公庁の告示・通知や行政手続き案内文を、中学生でも理解できる平易な日本語に変換するAIアシスタントです。
+> 「官僚文書を誰でも理解できるやさしい日本語へ。」
 
 ---
 
-## Features
+## 📌 概要
 
-✅ 原文と平易文を対訳形式で出力  
-✅ 中学生レベルで理解できる平易化対応  
-✅ 専門用語に簡潔な注釈を付与  
-✅ 長い文章を短文に分割して解説
+**官僚文書 平易化GPT** は、官公庁の告示・通知・法令・行政手続き案内文などを  
+中学生でも理解できる平易な日本語に書き換える GPT アシスタントです。
+
+以下のような場面で役立ちます：
+
+- 市民が自分の権利や手続きを理解したいとき
+- 行政職員がわかりやすい広報をしたいとき
+- 士業やメディア関係者が専門用語を説明するとき
 
 ---
 
-## Example Prompts
+## ⚙️ 主な機能 / Features
+
+- ✅ 原文と平易文を対訳形式で出力
+- ✅ 中学生レベルの表現に書き換え
+- ✅ 専門用語に短い注釈を付与
+- ✅ 長い文章を短文に分割して解説
+
+---
+
+## 🎯 想定ユーザー / Target Users
+
+- 一般市民
+- 自治体・行政職員
+- 法務・行政・広報分野の専門家
+- マスコミ・報道関係者
+
+---
+
+## 💻 使用例 / Usage Examples
+
+以下は GPT に入力する例です：
+
+---
+
+### 入力例 1
 
 ```
 
@@ -131,151 +181,84 @@ MIT License
 「本告示は、令和六年四月一日より施行するものとする。」
 
 ```
-```
-
-行政手続き案内文を、中学生でも分かるように直してください。
-
-```
 
 ---
 
-## Output Example
+### GPT の出力例
 
 > 【原文】  
-> 本告示は、令和六年四月一日より施行するものとする。
-> 
+> 本告示は、令和六年四月一日より施行するものとする。  
+>
 > 【平易な日本語】  
 > このお知らせは、2024年4月1日から効力が始まります。（施行＝効力開始）
 
 ---
 
-官公庁の文章をわかりやすく伝えたい方に最適なツールです。
-```
-
----
-
-もし：
-
-* 説明をさらに短くしたい
-* キャッチコピー風にしたい
-* 特定の媒体向けに調整したい
-
-などあれば教えてください！すぐ整えます。
-素晴らしい！GitHub README に載せる際は、以下のように書くのがおすすめです。
-**GitHub のREADMEは「技術者にも一般の人にもわかる」バランスが大事**なので、以下のような構成を提案します👇
-
----
-
-# ✅ 官僚文書 平易化GPT - README例
-
-以下、まるごとコピペで使える形で書きます！
-
----
-
-```markdown
-# 官僚文書 平易化GPT
-
-官僚文書 平易化GPT は、官公庁が発行する告示・通知や行政手続き案内文などを、  
-中学生でも理解できる平易な日本語に書き換える AI アシスタントです。  
-
-官僚特有の難解な表現を噛み砕いて伝えることで、  
-行政手続きの理解促進や、市民向け広報資料の作成などに活用できます。  
-
----
-
-## Features
-
-✅ 官公庁の告示・通知、行政手続き案内文に対応  
-✅ 原文と平易文を対訳形式で出力  
-✅ 平易文は中学生レベルで理解できる表現  
-✅ 専門用語には簡潔な注釈を付与  
-✅ 長文も短く分割してわかりやすく解説  
-
----
-
-## Example Prompts
-
-以下のように質問してください：
+### 入力例 2
 
 ```
 
-以下の文章を平易な日本語にしてください。
-「本告示は、令和六年四月一日より施行するものとする。」
-
-```
-```
-
-次の行政手続き案内文を、中学生にもわかるように書き換えてください。
+行政手続き案内文を、中学生でも分かるように直してください。
 「事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。」
 
 ```
 
 ---
 
-## Output Example
-
-> 【原文】  
-> 本告示は、令和六年四月一日より施行するものとする。  
-> 
-> 【平易な日本語】  
-> このお知らせは、2024年4月1日から効力が始まります。（施行＝効力開始）
-
----
+### GPT の出力例
 
 > 【原文】  
 > 事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。  
-> 
+>
 > 【平易な日本語】  
 > 事業をしている人が、特別な理由もないのに仕事を続けないと、その許可が取り消されることがあります。（正当な理由＝きちんとした理由）
 
 ---
 
-## Use Cases
+## ✅ 活用例 / Use Cases
 
-- 行政手続き案内を市民向けにわかりやすく説明したい
-- 官公庁の告示や通知を社内向けに翻訳したい
-- マスコミやメディアで引用する際に平易化したい
-- 自治体のホームページ作成支援
-
----
-
-## Target Users
-
-- 一般市民
-- 自治体職員
-- 士業（行政書士、社労士など）
-- 広報担当者
-- マスコミ関係者
+- 市民向けの行政手続き案内の作成
+- 法令・通知の社内向け平易化
+- 自治体ホームページ用のわかりやすい文章作成
+- 報道資料の平易化
 
 ---
 
-## Why This Tool?
+## 💡 このツールが必要な理由 / Why This Tool?
 
-官僚文書は専門用語や独特な表現が多く、一般市民にはわかりづらいことが多いです。  
-このツールは、原文と平易文の対訳形式で出力するため、行政現場や広報業務におけるコミュニケーションの円滑化を支援します。
+官僚文書は専門用語や長文表現が多く、一般市民には理解が難しいことが多いです。  
+**官僚文書 平易化GPT** は、原文と平易文を並べて出力することで、行政現場や広報業務の円滑なコミュニケーションを支援します。
 
 ---
 
-官僚文書 平易化GPT を使って、誰もが行政情報を正しく理解できる社会を目指しましょう！
+## ⚠️ 注意事項 / Disclaimer
+
+- 本ツールは参考情報の提供を目的としています。
+- 公式文章や重要な手続きについては、必ず行政機関や専門家に確認してください。
+
+---
+
+## 🌐 デモ / Demo
+
+[ChatGPTで 官僚文書 平易化GPT を見る](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
+
+---
+
+## 👨‍💻 開発者 / My Role
+
+本ツールでは以下を担当しました：
+
+- 官公庁文書に特化したプロンプト設計
+- 読みやすさを重視したUX設計
+- 出力の検証とブラッシュアップ
+
+---
+
+## 📄 ライセンス / License
+
+MIT License
+
+---
+
+> 「官僚文書を誰でも理解できるやさしい日本語へ。」
 ```
-
----
-
-# ✅ ポイント
-
-* 冒頭で **誰向けツールか** を説明する
-* **Example Prompts** を載せる
-* 出力例を示すと説得力がアップ
-* 「Use Cases」や「Target Users」も載せるとビジネス感が出る
-
----
-
-もし：
-
-* もっと短くしたい
-* 英語併記にしたい
-* 技術的解説（API使用技術など）を入れたい
-
-などあれば教えてください！すぐ整えます。
-
-https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt
