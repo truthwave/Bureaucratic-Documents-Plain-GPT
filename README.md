@@ -1,3 +1,8 @@
+<p>
+  <img width="1536" height="1024" alt="段落テキスト (2)" src="https://github.com/user-attachments/assets/e3e17b05-8cc1-45b3-8df0-eefb6fabea29" />
+
+</p>
+
 # 官僚文書 平易化GPT
 
 > 「官僚文書を誰でも理解できるやさしい日本語へ。」
