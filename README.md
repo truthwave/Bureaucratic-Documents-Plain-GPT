@@ -134,3 +134,9 @@ MIT License
 ---
 
 > 「官僚文書を誰でも理解できるやさしい日本語へ。」
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
