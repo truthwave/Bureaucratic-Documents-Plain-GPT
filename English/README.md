@@ -1,137 +1,86 @@
-# Bureaucratic Document Simplifier GPT (官僚文書 平易化GPT)
+# Bureaucratic Document Simplification GPT
 
-> **“Transform complex government documents into simple language anyone can understand.”**
-
----
-
-## 📌 Overview
-
-**Bureaucratic Document Simplifier GPT (官僚文書 平易化GPT)** is a GPT-powered assistant that transforms dense, bureaucratic Japanese language—found in official notices, laws, and administrative documents—into plain Japanese that even junior high school students can understand.
-
-This tool helps:
-
-- Citizens understand their rights and obligations
-- Government staff simplify communications
-- Professionals like legal workers and journalists explain regulations clearly
+> Complexity, made clear.
+> Legal provisions, translated into everyday language.
+> **Cut readers' time in half.**
 
 ---
 
-## ⚙️ Key Features
+## Experience (Three Features Are Enough)
 
-✅ **Side-by-Side Output**
-- Displays original text and simplified text together
-
----
-
-✅ **Plain Japanese Rewriting**
-- Rewrites text to a junior high school reading level
+- **Side-by-Side Translation**: Original text and simplified version displayed together
+- **Annotations**: One-line explanations for specialized terms
+- **Segmentation**: Long passages divided into short paragraphs with key points numbered
+> The goal is “understanding.” Not decoration, but communication.
 
 ---
 
-✅ **Technical Term Annotations**
-- Adds short, easy explanations for difficult words
+## Before → After
+
+- Reading time: 10 minutes → **5 minutes**
+- Average sentence length: 80 characters → **40 characters**
+- Vocabulary difficulty: Upper high school level → **Middle school level**
+> ※ Varies depending on text volume and content.
 
 ---
 
-✅ **Shorter, Clearer Sentences**
-- Breaks long bureaucratic sentences into simpler ones
 
----
+## How to Use (Quickest Route)
 
-## 🎯 Target Users
+1. Paste original text (announcements, notices, laws, procedure guides)<br>
+2. Select output level (Junior high level / General)<br>
+3. Get simplified text with translations and annotations → Distribute or publish
 
-- General public
-- Municipal and government staff
-- Professionals in legal, administrative, and PR fields
-- Journalists and media professionals
+[👉 See demo](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
 
 ---
 
 ## 💻 Usage Examples
 
-Here’s how you might use this GPT:
-
----
-
-### Example Prompt 1
+### Input Example 1
 
 ```
-
-Please simplify the following text into plain Japanese:
-「本告示は、令和六年四月一日より施行するものとする。」
-
+Please rewrite the following sentence into plain Japanese.
+“This notice shall take effect on April 1, 2024.”
 ```
 
----
+### GPT Output Example
 
-### ✅ GPT Example Output
-
-> **【Original】**  
-> 本告示は、令和六年四月一日より施行するものとする。  
->
-> **【Simplified Japanese】**  
-> このお知らせは、2024年4月1日から効力が始まります。（施行＝効力開始）
+> 【Original Text】
+> This notice shall take effect on April 1, 2024.
+> 【Plain Japanese】
+> This notice takes effect on April 1, 2024. (Enforcement = Effective Date)
 
 ---
 
-### Example Prompt 2
+### Input Example 2
 
 ```
-
-Rewrite the following administrative document so that junior high school students can understand it:
-「事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。」
-
+Please rewrite this administrative procedure guide so a middle school student can understand it.
+“If a business operator ceases operations without justifiable reason, the relevant permit may be revoked.”
 ```
 
----
+### GPT Output Example
 
-### ✅ GPT Example Output
-
-> **【Original】**  
-> 事業者は、正当な理由がなく業務を継続しない場合、当該許可を取り消されることがある。  
->
-> **【Simplified Japanese】**  
-> 事業をしている人が、特別な理由もないのに仕事を続けないと、その許可が取り消されることがあります。（正当な理由＝きちんとした理由）
+> 【Original Text】
+> A business operator may have their license revoked if they fail to continue operations without justifiable reason.
+> 【Plain Japanese】
+> If a business operator fails to continue their work without a valid reason, their license may be revoked. (Valid reason = proper reason)
 
 ---
 
-## ✅ Use Cases
+## Target Users
 
-- Simplifying administrative notices for citizens
-- Making legal documents understandable for the public
-- Creating plain-language content for municipal websites
-- Helping journalists translate complex official language
-
----
-
-## 💡 Why This Tool?
-
-Japanese official documents often contain complex and technical language, making it difficult for ordinary citizens to understand their rights, obligations, or government announcements.
-
-**Bureaucratic Document Simplifier GPT** bridges this gap by providing side-by-side original and simplified text, ensuring clear communication and better public understanding.
+- Local government/administrative staff / Public relations officers
+- Legal, administrative, and media professionals
+- Citizens / Support organizations / Educational institutions
 
 ---
 
-## ⚠️ Disclaimer
+## Important Notes
 
-- This tool generates simplified drafts for reference purposes only.
-- Always confirm official information with relevant government offices or legal professionals.
-
----
-
-## 🌐 Demo
-
-[Try 官僚文書 平易化GPT on ChatGPT](https://chatgpt.com/g/g-6871b3ade8ec81919758c30bbbbec053-guan-gong-ting-wen-shu-wakariyasuiri-ben-yu-bian-huan-gpt)
-
----
-
-## 👨‍💻 My Role
-
-I designed and developed this GPT, including:
-
-- Prompt engineering tailored to Japanese government language
-- UX design for easy readability
-- Testing and refining outputs for clarity
+- This tool provides reference information only. It is not **legal interpretation or advice**.
+- For critical matters, please **verify directly** with the original source (laws, ordinances, notices).
 
 ---
 
@@ -141,4 +90,16 @@ MIT License
 
 ---
 
-> **“官僚文書を誰でも理解できるやさしい日本語へ。”**
+## 🧑‍💻 Author
+
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+Please also check out our portfolio and information on AI tool development!
+
+## Feel Free to Contact Us
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+
+---
+
+## 🏁 Final Thoughts
+Don't embellish. Leave only the meaning.
+Government language exists for the people.
