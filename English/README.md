@@ -5,7 +5,7 @@
 > **Cut readers' time in half.**
 
 <p align="center">
-<img width="1536" height="1024" alt="官僚文書 平易化GPT" src="https://github.com/user-attachments/assets/6a3d57e6-0827-4566-8936-573f824e2168" />
+<img width="1536" height="1024" alt="20251018_1204_Legal Language Contrast_simple_compose_01k7tmbs82eppt60h9k11yae0n (1)" src="https://github.com/user-attachments/assets/f4b92be3-ce99-458a-bfa2-3b4c576a8318" />
 </p>
 
 ---
