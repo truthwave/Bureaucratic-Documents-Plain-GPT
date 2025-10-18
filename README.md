@@ -5,8 +5,7 @@
 > **読む人の時間を、半分に。**
 
 <p align="center">
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/eaf890e7-91dd-4e98-aff7-31da188c60d9" />
-
+<img width="1536" height="1024" alt="官僚文書" src="https://github.com/user-attachments/assets/71c65d8a-2dd0-4382-9339-a971575e5e04" />
 </p>
 
 ---
