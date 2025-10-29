@@ -30,7 +30,9 @@
 
 ## 📸Experience Image
 
-![Demo](https://github.com/truthwave/Bureaucratic-Documents-Plain-GPT/blob/main/English/Demo%20Movie.gif)
+![Demo](https://github.com/truthwave/Bureaucratic-Documents-Plain-GPT/blob/main/English/Materials/Demo%20Movie.gif)
+
+### [Screenshot](https://github.com/truthwave/Bureaucratic-Documents-Plain-GPT/tree/main/English/Materials/Screenshot)
 
 ---
 
